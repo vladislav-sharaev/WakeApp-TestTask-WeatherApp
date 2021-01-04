@@ -1,0 +1,17 @@
+/* 
+  localization.strings
+  WakeApp-TestTask-Weather
+
+  Created by Vladislav Sharaev on 12/31/20.
+  
+*/
+
+//Loading VC
+"try.again.btn" = "Try again";
+"error.loading.from.network.label" = "An error occurred while loading data";
+"realm.error.message" = "Fatal error! Wait for the next developer update";
+
+//ForecastVC
+"degree.celsius" = "°C";
+"from.word" = "From ";
+"to.word" = " to ";

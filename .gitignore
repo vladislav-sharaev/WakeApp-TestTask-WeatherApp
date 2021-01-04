@@ -1,0 +1,5 @@
+xcuserdata
+*.xcworkspace
+Pods
+Podfile.lock
+*.generated.swift
